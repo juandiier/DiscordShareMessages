@@ -1,0 +1,49 @@
+{
+    "discordBotToken": "MTEyNDcyODM1MjEzNDE1MjE5Mw.GM8-EO.QKn597KR3-x3bfv6k_xkRz7PfTPsnnPtUzP9ns",
+    "discords": [
+        {
+            "adminsIds" : [""],
+            "discordId": "1092683765949681674",
+            "name": "El Culto de la Boina",
+            "here": {
+                "own": true,
+                "everyTime": true
+              },
+            "neighboards": false,
+            "neighboards_name": [],
+            "channelId": "1122184294962561034"
+        },
+        {
+            "adminsIds" : [""],
+            "discordId": "719347965315252338",
+            "name": "Nefelibatas Games",
+            "here": {
+                "own": true,
+                "everyTime": true
+              },
+            "neighboards": true,
+            "neighboards_name": [
+                "El Culto de la Boina"
+            ],
+            "channelId": "802271871990628364"
+        },
+        {
+            "adminsIds" : [""],
+            "discordId": "5028728",
+            "name": "Discord du 16",
+            "here": {
+                "own": true,
+                "everyTime": true
+              },
+            "neighboards": true,
+            "neighboards_name": [
+                "Discord du 14",
+                "Discord du 15"
+            ],
+            "channelId": "504980465465464"
+        }
+    ],
+    "telegramBotToken": "5454jgjgj",
+    "telegramChatID": "-10054455454",
+    "delayHereControl": 2
+}
